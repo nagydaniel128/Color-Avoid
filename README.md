@@ -16,7 +16,7 @@ This is a game written in Unity. It's really simple, you just try to avoid color
 
 2. **Open the project in Unity**:
    - Launch the Unity Editor.
-   - Open the cloned project via `File > Open Project`.
+   - Open the 'Color Avoid' folder located in the cloned project via `File > Open Project`.
 
 ## Developer Information
 ### System Requirements
