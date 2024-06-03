@@ -11,7 +11,7 @@ This is a game written in Unity. It's really simple, you just try to avoid color
 ## Installation and Running
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/felhasznalonev/repository-nev.git
+    git clone https://github.com/nagydaniel128/Color-Avoid.git
     ```
 
 2. **Open the project in Unity**:
